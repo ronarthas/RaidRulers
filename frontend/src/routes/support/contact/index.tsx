@@ -4,7 +4,7 @@ import type { DocumentHead } from '@builder.io/qwik-city';
 export default component$(() => {
   return (
   <>
-    <p>ok on c'est débarasser de la merde</p>
+    <p>Page de contact</p>
   </>
   );
 });
